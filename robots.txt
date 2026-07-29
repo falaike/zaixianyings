@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://falaike.github.io/zaixianyings/sitemap.xml
